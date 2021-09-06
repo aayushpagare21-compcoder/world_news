@@ -22,6 +22,7 @@ h1 {
 .collapse { 
     padding: 1rem 1rem;
 } 
-.heading { 
-    font-weight: 900;
+.head{ 
+    font-size: 2rem; 
+    padding: 3px;
 }
