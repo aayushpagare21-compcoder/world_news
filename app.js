@@ -29,7 +29,7 @@ xhr.onload = function () {
                 <h2 class="mb-2 heading">
                     <button class="btn collapsed head" type="button" data-toggle="collapse"
                         data-target="#collapse${index}" aria-expanded="true" aria-controls="collapse${index}">
-                        ${element['title']}
+                         ${element['title']}
                     </button>
                 </h2>
             </div>
